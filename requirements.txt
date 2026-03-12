@@ -8,3 +8,5 @@ xgboost
 catboost
 statsmodels
 imbalanced-learn
+streamlit
+joblib
